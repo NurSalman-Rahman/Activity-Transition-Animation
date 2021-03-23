@@ -210,6 +210,7 @@ public class MainActivity extends AppCompatActivity {
         in_out.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                startActivity(new Intent(MainActivity.this,NewPage.class));
                 Animatoo.animateInAndOut(MainActivity.this);
                // Toast.makeText(MainActivity.this, "ddd", Toast.LENGTH_SHORT).show();
 
