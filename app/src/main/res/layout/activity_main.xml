@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+  <LinearLayout
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:orientation="vertical">
+
+      <Button
+          android:layout_marginTop="25dp"
+          android:gravity="center"
+          android:layout_gravity="center"
+          android:id="@+id/windmillBtn"
+          android:text="Windmill"
+          android:textSize="24sp"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content">
+
+      </Button>
+
+      <Button
+          android:layout_marginTop="25dp"
+          android:gravity="center"
+          android:layout_gravity="center"
+          android:id="@+id/spinBtn"
+          android:text="Spain"
+          android:textSize="24sp"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content">
+
+      </Button>
+
+      <Button
+          android:layout_marginTop="25dp"
+          android:gravity="center"
+          android:layout_gravity="center"
+          android:id="@+id/diagonalBtn"
+          android:text="Diagonal"
+          android:textSize="24sp"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content">
+
+      </Button>
+
+      <Button
+          android:layout_marginTop="25dp"
+          android:gravity="center"
+          android:layout_gravity="center"
+          android:id="@+id/splitBtn"
+          android:text="Split"
+          android:textSize="24sp"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content">
+
+      </Button>
+
+      <Button
+          android:layout_marginTop="25dp"
+          android:gravity="center"
+          android:layout_gravity="center"
+          android:id="@+id/shrinkBtn"
+          android:text="Shrink"
+          android:textSize="24sp"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content">
+
+      </Button>
+
+      <Button
+          android:layout_marginTop="25dp"
+          android:gravity="center"
+          android:layout_gravity="center"
+          android:id="@+id/cardBtn"
+          android:text="Card"
+          android:textSize="24sp"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content">
+
+      </Button>
+
+      <Button
+          android:layout_marginTop="25dp"
+          android:gravity="center"
+          android:layout_gravity="center"
+          android:id="@+id/swipeleftBtn"
+          android:text="Swipe Left"
+          android:textSize="24sp"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content">
+
+      </Button>
+
+      <Button
+          android:layout_marginTop="25dp"
+          android:gravity="center"
+          android:layout_gravity="center"
+          android:id="@+id/swiperightBtn"
+          android:text="Swipr Right"
+          android:textSize="24sp"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content">
+
+      </Button>
+
+      <Button
+          android:layout_marginTop="25dp"
+          android:gravity="center"
+          android:layout_gravity="center"
+          android:id="@+id/slideleftBtn"
+          android:text="Slide Left"
+          android:textSize="24sp"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content">
+
+      </Button>
+
+      <Button
+          android:layout_marginTop="25dp"
+          android:gravity="center"
+          android:layout_gravity="center"
+          android:id="@+id/sliderightBtn"
+          android:text="Slide Right"
+          android:textSize="24sp"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content">
+
+      </Button>
+
+      <Button
+      android:layout_marginTop="25dp"
+      android:gravity="center"
+      android:layout_gravity="center"
+      android:id="@+id/slidedownBtn"
+      android:text="Slide Down"
+      android:textSize="24sp"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content">
+
+  </Button>
+
+      <Button
+      android:layout_marginTop="25dp"
+      android:gravity="center"
+      android:layout_gravity="center"
+      android:id="@+id/slideupBtn"
+      android:text="Slide Up"
+      android:textSize="24sp"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content">
+
+  </Button>
+
+      <Button
+          android:layout_marginTop="25dp"
+          android:gravity="center"
+          android:layout_gravity="center"
+          android:id="@+id/zoomBtn"
+          android:text="Zoom"
+          android:textSize="24sp"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content">
+
+      </Button>
+
+      <Button
+      android:layout_marginTop="25dp"
+      android:gravity="center"
+      android:layout_gravity="center"
+      android:id="@+id/fadeBtn"
+      android:text="Fade"
+      android:textSize="24sp"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content">
+
+  </Button>
+      <Button
+          android:layout_marginTop="25dp"
+          android:gravity="center"
+          android:layout_gravity="center"
+          android:id="@+id/inandoutBtn"
+          android:text="In And Out"
+          android:textSize="24sp"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content">
+
+      </Button>
+
+
+
+
+
+
+
+  </LinearLayout>
+
+</ScrollView>
